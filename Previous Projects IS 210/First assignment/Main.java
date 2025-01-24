@@ -7,8 +7,7 @@ public class Main {
     {
         Scanner scanner = new Scanner(System.in);
         double credit,creditUsed,availableCredit  = 0;
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
+
         System.out.println("What is your maximum amount of credit?");
         credit = scanner.nextDouble();
 
